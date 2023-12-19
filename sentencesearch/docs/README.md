@@ -54,7 +54,7 @@ specified in the PROMPT.md document. For example:
 
 ## Help
 
-If you encounter any issues installing or running the application, I would ensure your machine has a compatible version
+If you encounter any issues installing or running the application, I would confirm that your machine has a compatible version
 of Java installed.
 
 The following is what I have installed on my machine:
@@ -67,7 +67,7 @@ The following is what I have installed on my machine:
 
 I use Homebrew exclusively as my package manager on my dev machines and would encourage you to do the same.
 
-If that doesn't resolve the issue. Please contact me at kevin@queenan.dev or 817-751-5448 and I'll gladly assist.
+If that doesn't resolve the issue, please contact me at kevin@queenan.dev and I'll gladly assist.
 
 ## Author
 
